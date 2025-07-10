@@ -75,7 +75,7 @@
         </div>
     </div>
 
-    <footer class="mt-5 p-4 bg-light text-center text-muted">
+    <footer class="mt-5 p-4 text-center text-muted">
     <div class="container">
         <p class="mb-0">
             Desenvolvido por Pedro Simil - <?php echo date("Y"); ?>
