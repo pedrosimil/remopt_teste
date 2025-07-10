@@ -28,7 +28,7 @@
 
     <div class="container mt-4">
 
-        <h1 class="mb-4">Lista de Pokémons</h1>
+        <h1 class="h3 mb-4">Lista de Pokémons</h1>
 
         <table id="pokemonTable" class="table table-striped table-bordered" style="width:100%">
             <thead>
