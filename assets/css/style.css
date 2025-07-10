@@ -1,0 +1,17 @@
+/*
+ * Estilos para centralizar o conteúdo da tabela de Pokémons.
+ */
+
+#pokemonTable th,
+#pokemonTable td {
+    text-align: center;
+    vertical-align: middle;
+}
+/* Efeito de hover para as linhas da tabela (versão mais específica) */
+#pokemonTable tbody tr:hover td {
+    background-color: #f5f5f5; /* Aplica o fundo em cada célula da linha */
+}
+
+#pokemonTable tbody tr:hover {
+    cursor: pointer;
+}
